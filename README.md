@@ -4,7 +4,6 @@
 
 ## Features
 
--   Completely online.
 -  	User must register and login.
 -	Can see products categorically.
 -	Can search by product name.

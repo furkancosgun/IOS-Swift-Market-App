@@ -1,3 +1,4 @@
+
 # IOS Swift Market App
 - Swift Market Application And PHP API
 
@@ -71,6 +72,7 @@ To get started, please take a look at the 'Issues' tab, where you will find open
 <tr><td><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/9-DeleteBasket.png?raw=true"></td>
 <td><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/10-Favorites.png?raw=true"></td></tr><tr>
 <td align=center><b>Product Deletion Function From Cart Screen</b></td><td align=center><b>Favorites Page</b></td></tr>
-<tr><td align=center><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/11-SettingPage.png?raw=true"></td><tr>
-<tr><td>:D</td></tr>
+<tr><td align=center><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/11-SettingPage.png?raw=true"></td>
+<td><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/DB.png?raw=true"></td></tr>
+<td align=center><b>Coming Soon :D</b></td><td align=center><b>DATABASE</b></td></tr>
 </table>

@@ -10,7 +10,9 @@
 -	Can add to cart edit cart delete cart.
 -	Can write comments read comments.
 -	Can add to favourites, delete from favourites.
--	Creating an order (coming soon).
+-	Creating an order
+-	Search Location
+-	Order save with current location or selected location
 
 ## Tech Stack
 
@@ -71,7 +73,10 @@ To get started, please take a look at the 'Issues' tab, where you will find open
 <tr><td><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/9-DeleteBasket.png?raw=true"></td>
 <td><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/10-Favorites.png?raw=true"></td></tr><tr>
 <td align=center><b>Product Deletion Function From Cart Screen</b></td><td align=center><b>Favorites Page</b></td></tr>
-<tr><td align=center><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/11-SettingPage.png?raw=true"></td>
+<tr><td align=center><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/12-CurrentLoc.png?raw=true"></td>
+<td><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/13-SearchLoc.png?raw=true"></td></tr>
+<td align=center><b>Current Location In Order Page</b></td><td align=center><b>Search Location And Select Location</b></td></tr>
+<tr><td align=center><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/14-OrderOk.png?raw=true"></td>
 <td><img src="https://github.com/furkancosgun/IOS-Swift-Market-App/blob/main/MarketApp/SS/DB.png?raw=true"></td></tr>
-<td align=center><b>Coming Soon :D</b></td><td align=center><b>DATABASE</b></td></tr>
+<td align=center><b>Order Successful</b></td><td align=center><b>DATABASE</b></td></tr>
 </table>
